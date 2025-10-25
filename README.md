@@ -8,7 +8,7 @@ To analyze employee data to understand how factors like satisfaction, evaluation
 - Excel (for cleaning)
 - Power BI (for visualization)
 
-## 📊 Dataset Features
+##  Dataset Features
 - **EmpId** – Employee ID
 - **Satisfaction** – Employee satisfaction score
 - **Evaluation** – Performance evaluation score
